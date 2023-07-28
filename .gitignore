@@ -1,0 +1,14 @@
+client/node_modules
+server/node_modules
+server/cloud/modules/node_modules
+client/my-app/node_modules
+
+.DS_Store
+client/DS_Store
+server/DS_Store
+
+
+.package-lock.json
+client/package-lock.json
+server/package-lock.json
+server/cloud/modules/package-lock.json
